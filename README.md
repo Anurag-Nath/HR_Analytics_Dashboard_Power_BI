@@ -15,3 +15,7 @@ Explore and understand the data set to make it usable for analysis.
 Analyze the data using calculated columns and measures to identify patterns and trends.
 ### Data Visualization:
 Visualize the data using various KPIs to communicate the findings.  
+
+.
+
+![Dashboard](https://user-images.githubusercontent.com/131389306/237034934-b69ca890-2258-40c5-9da1-59ac5d8f01b4.png)
